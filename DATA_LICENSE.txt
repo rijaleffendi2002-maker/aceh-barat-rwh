@@ -1,0 +1,3 @@
+DATA LICENSE (Creative Commons Attribution 4.0 International)
+
+The data included in this repository is licensed under CC-BY 4.0.
